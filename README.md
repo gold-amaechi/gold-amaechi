@@ -5,7 +5,7 @@
 - 📬 How to reach me - checkout my portfolio website www.devgold.tech
 
 ![image](https://github.com/gold-amaechi/gold-amaechi/assets/135975401/7076adaa-cc76-4970-a824-2d76c32eb54b)
-### Currently at Xander Academy - enrolled on the Spftware/Data Engineering course.
+### Currently at Xander Academy - enrolled on the Software/Data Engineering course.
 
 ## My Skills
 ![image](https://github.com/gold-amaechi/gold-amaechi/assets/135975401/d5910991-9fcc-45fe-ae4c-2dd6dd043c7d) 
