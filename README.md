@@ -1,5 +1,5 @@
 # Hi, I’m Gold Amaechi 👋
-## Aspirimg Software/Data Engineer 
+## Aspiring Software/Data Engineer 
 - 😍 I’m interested in coding, puzzles, challenging myself
 - 💻 I’m currently learning Python and Power BI
 - 📬 How to reach me - checkout my portfolio website www.devgold.tech
