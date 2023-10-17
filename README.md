@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @gold-amaechi
-- 👀 I’m interested in coding, puzzles, challenging myself
-- 🌱 I’m currently learning Python
-- 📫 How to reach me - checkout my portfolio website www.devgold.tech
+# Hi, I’m @gold-amaechi 👋
+- 😍 I’m interested in coding, puzzles, challenging myself
+- 💻 I’m currently learning Python
+- 📬 How to reach me - checkout my portfolio website www.devgold.tech
 
-#Hello https://www.xelplus.com/wp-content/uploads/2021/12/InvoiceData.txt
-##Aspiring Software Engineer
+![image](https://github.com/gold-amaechi/gold-amaechi/assets/135975401/7076adaa-cc76-4970-a824-2d76c32eb54b)
+
+
+
 
 <!---
 gold-amaechi/gold-amaechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
